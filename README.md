@@ -18,3 +18,9 @@ You’re in charge of making bid adjustments for each campaign based on the repo
 What bid would you suggest each campaign is set to make sure every campaign has maximum profitability?
 
 Please also include details of your thought process and detail any other suggestions for best managing the PPC campaigns.
+
+
+**Calculation**
+Please check the excel sheet for the detail calulation of product wise overall 'Click Through Rate', 'Cost Per Click' and Overall Marketing spends versus total sales.
+
+**Insight / Recomendation ** : 
