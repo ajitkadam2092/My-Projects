@@ -1,5 +1,3 @@
-# My-Projects
-
 **Problem Statement : **
 
 This is a project on Amazon PPC campaign for the 5 different products.
